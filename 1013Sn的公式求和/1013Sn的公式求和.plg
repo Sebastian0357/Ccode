@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 1013Sn的公式求和 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\wt\AppData\Local\Temp\RSP82E8.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/1013Sn的公式求和.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\CLanguage\SummerCode\1013Sn的公式求和\main.c"
+]
+Creating command line "cl.exe @C:\Users\wt\AppData\Local\Temp\RSP82E8.tmp" 
+<h3>Output Window</h3>
+Compiling...
+main.c
+e:\clanguage\summercode\1013sn的公式求和\main.c(24) : error C2143: syntax error : missing ';' before 'for'
+e:\clanguage\summercode\1013sn的公式求和\main.c(24) : error C2143: syntax error : missing ';' before ')'
+e:\clanguage\summercode\1013sn的公式求和\main.c(24) : error C2143: syntax error : missing ';' before ')'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+main.obj - 3 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
